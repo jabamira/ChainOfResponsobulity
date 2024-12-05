@@ -1,0 +1,14 @@
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\bin\Debug\net8.0\ChainOfResponsobulity.exe
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\bin\Debug\net8.0\ChainOfResponsobulity.deps.json
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\bin\Debug\net8.0\ChainOfResponsobulity.runtimeconfig.json
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\bin\Debug\net8.0\ChainOfResponsobulity.dll
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\bin\Debug\net8.0\ChainOfResponsobulity.pdb
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.AssemblyInfo.cs
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.dll
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\refint\ChainOfResponsobulity.dll
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.pdb
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ChainOfResponsobulity.genruntimeconfig.cache
+C:\Users\artem\Desktop\C#\ChainOfResponsobulity\ChainOfResponsobulity\obj\Debug\net8.0\ref\ChainOfResponsobulity.dll
